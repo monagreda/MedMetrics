@@ -1,0 +1,900 @@
+{
+  "metadata": {
+    "fecha_generacion": "2026-02-08T19:11:58.427038",
+    "umbral_hiperglucemia": 140,
+    "total_alertas": 126
+  },
+  "promedios_por_comida": {
+    "Before sleep": 111.33875739644971,
+    "Fasting": 110.5522965116279,
+    "Post-prandial": 113.57594339622642
+  },
+  "alertas_hiperglucemia": [
+    {
+      "timestamp": "2026-01-01 17:30:00",
+      "patient_id": "P002",
+      "glucose_level": 146.04,
+      "meal_context": "Post-prandial",
+      "severidad": "Moderada"
+    },
+    {
+      "timestamp": "2026-01-02 02:30:00",
+      "patient_id": "P001",
+      "glucose_level": 161.89,
+      "meal_context": "Post-prandial",
+      "severidad": "Moderada"
+    },
+    {
+      "timestamp": "2026-01-02 04:00:00",
+      "patient_id": "P003",
+      "glucose_level": 140.03,
+      "meal_context": "Fasting",
+      "severidad": "Moderada"
+    },
+    {
+      "timestamp": "2026-01-02 07:30:00",
+      "patient_id": "P002",
+      "glucose_level": 151.91,
+      "meal_context": "Post-prandial",
+      "severidad": "Moderada"
+    },
+    {
+      "timestamp": "2026-01-02 13:30:00",
+      "patient_id": "P002",
+      "glucose_level": 166.77,
+      "meal_context": "Post-prandial",
+      "severidad": "Moderada"
+    },
+    {
+      "timestamp": "2026-01-02 23:30:00",
+      "patient_id": "P001",
+      "glucose_level": 143.89,
+      "meal_context": "Fasting",
+      "severidad": "Moderada"
+    },
+    {
+      "timestamp": "2026-01-03 00:30:00",
+      "patient_id": "P003",
+      "glucose_level": 156.92,
+      "meal_context": "Before sleep",
+      "severidad": "Moderada"
+    },
+    {
+      "timestamp": "2026-01-03 02:30:00",
+      "patient_id": "P003",
+      "glucose_level": 147.4,
+      "meal_context": "Fasting",
+      "severidad": "Moderada"
+    },
+    {
+      "timestamp": "2026-01-03 05:00:00",
+      "patient_id": "P001",
+      "glucose_level": 171.14,
+      "meal_context": "Before sleep",
+      "severidad": "Moderada"
+    },
+    {
+      "timestamp": "2026-01-03 09:00:00",
+      "patient_id": "P001",
+      "glucose_level": 157.05,
+      "meal_context": "Fasting",
+      "severidad": "Moderada"
+    },
+    {
+      "timestamp": "2026-01-03 09:30:00",
+      "patient_id": "P002",
+      "glucose_level": 143.64,
+      "meal_context": "Post-prandial",
+      "severidad": "Moderada"
+    },
+    {
+      "timestamp": "2026-01-03 10:00:00",
+      "patient_id": "P001",
+      "glucose_level": 149.83,
+      "meal_context": "Post-prandial",
+      "severidad": "Moderada"
+    },
+    {
+      "timestamp": "2026-01-03 13:30:00",
+      "patient_id": "P003",
+      "glucose_level": 148.24,
+      "meal_context": "Fasting",
+      "severidad": "Moderada"
+    },
+    {
+      "timestamp": "2026-01-03 18:30:00",
+      "patient_id": "P002",
+      "glucose_level": 151.73,
+      "meal_context": "Fasting",
+      "severidad": "Moderada"
+    },
+    {
+      "timestamp": "2026-01-03 23:00:00",
+      "patient_id": "P002",
+      "glucose_level": 156.22,
+      "meal_context": "Before sleep",
+      "severidad": "Moderada"
+    },
+    {
+      "timestamp": "2026-01-04 01:00:00",
+      "patient_id": "P003",
+      "glucose_level": 174.33,
+      "meal_context": "Fasting",
+      "severidad": "Moderada"
+    },
+    {
+      "timestamp": "2026-01-04 07:30:00",
+      "patient_id": "P003",
+      "glucose_level": 147.6,
+      "meal_context": "Post-prandial",
+      "severidad": "Moderada"
+    },
+    {
+      "timestamp": "2026-01-04 09:00:00",
+      "patient_id": "P002",
+      "glucose_level": 141.15,
+      "meal_context": "Fasting",
+      "severidad": "Moderada"
+    },
+    {
+      "timestamp": "2026-01-04 12:30:00",
+      "patient_id": "P002",
+      "glucose_level": 153.81,
+      "meal_context": "Post-prandial",
+      "severidad": "Moderada"
+    },
+    {
+      "timestamp": "2026-01-04 13:30:00",
+      "patient_id": "P002",
+      "glucose_level": 141.79,
+      "meal_context": "Post-prandial",
+      "severidad": "Moderada"
+    },
+    {
+      "timestamp": "2026-01-05 03:30:00",
+      "patient_id": "P001",
+      "glucose_level": 153.87,
+      "meal_context": "Post-prandial",
+      "severidad": "Moderada"
+    },
+    {
+      "timestamp": "2026-01-05 04:30:00",
+      "patient_id": "P002",
+      "glucose_level": 152.41,
+      "meal_context": "Before sleep",
+      "severidad": "Moderada"
+    },
+    {
+      "timestamp": "2026-01-05 19:00:00",
+      "patient_id": "P003",
+      "glucose_level": 151.64,
+      "meal_context": "Post-prandial",
+      "severidad": "Moderada"
+    },
+    {
+      "timestamp": "2026-01-06 03:30:00",
+      "patient_id": "P003",
+      "glucose_level": 175.81,
+      "meal_context": "Post-prandial",
+      "severidad": "Moderada"
+    },
+    {
+      "timestamp": "2026-01-06 07:00:00",
+      "patient_id": "P001",
+      "glucose_level": 174.0,
+      "meal_context": "Post-prandial",
+      "severidad": "Moderada"
+    },
+    {
+      "timestamp": "2026-01-06 09:30:00",
+      "patient_id": "P001",
+      "glucose_level": 154.27,
+      "meal_context": "Before sleep",
+      "severidad": "Moderada"
+    },
+    {
+      "timestamp": "2026-01-06 10:30:00",
+      "patient_id": "P002",
+      "glucose_level": 155.31,
+      "meal_context": "Fasting",
+      "severidad": "Moderada"
+    },
+    {
+      "timestamp": "2026-01-07 06:00:00",
+      "patient_id": "P003",
+      "glucose_level": 141.39,
+      "meal_context": "Fasting",
+      "severidad": "Moderada"
+    },
+    {
+      "timestamp": "2026-01-07 08:00:00",
+      "patient_id": "P001",
+      "glucose_level": 146.17,
+      "meal_context": "Fasting",
+      "severidad": "Moderada"
+    },
+    {
+      "timestamp": "2026-01-07 12:30:00",
+      "patient_id": "P002",
+      "glucose_level": 145.23,
+      "meal_context": "Fasting",
+      "severidad": "Moderada"
+    },
+    {
+      "timestamp": "2026-01-07 13:00:00",
+      "patient_id": "P003",
+      "glucose_level": 167.47,
+      "meal_context": "Before sleep",
+      "severidad": "Moderada"
+    },
+    {
+      "timestamp": "2026-01-07 14:30:00",
+      "patient_id": "P002",
+      "glucose_level": 146.33,
+      "meal_context": "Fasting",
+      "severidad": "Moderada"
+    },
+    {
+      "timestamp": "2026-01-07 15:00:00",
+      "patient_id": "P002",
+      "glucose_level": 149.49,
+      "meal_context": "Before sleep",
+      "severidad": "Moderada"
+    },
+    {
+      "timestamp": "2026-01-07 20:00:00",
+      "patient_id": "P001",
+      "glucose_level": 148.76,
+      "meal_context": "Before sleep",
+      "severidad": "Moderada"
+    },
+    {
+      "timestamp": "2026-01-08 01:30:00",
+      "patient_id": "P002",
+      "glucose_level": 171.38,
+      "meal_context": "Before sleep",
+      "severidad": "Moderada"
+    },
+    {
+      "timestamp": "2026-01-08 05:00:00",
+      "patient_id": "P001",
+      "glucose_level": 145.51,
+      "meal_context": "Fasting",
+      "severidad": "Moderada"
+    },
+    {
+      "timestamp": "2026-01-08 09:00:00",
+      "patient_id": "P001",
+      "glucose_level": 148.69,
+      "meal_context": "Fasting",
+      "severidad": "Moderada"
+    },
+    {
+      "timestamp": "2026-01-08 09:30:00",
+      "patient_id": "P003",
+      "glucose_level": 154.9,
+      "meal_context": "Before sleep",
+      "severidad": "Moderada"
+    },
+    {
+      "timestamp": "2026-01-08 12:30:00",
+      "patient_id": "P003",
+      "glucose_level": 160.26,
+      "meal_context": "Before sleep",
+      "severidad": "Moderada"
+    },
+    {
+      "timestamp": "2026-01-08 15:30:00",
+      "patient_id": "P003",
+      "glucose_level": 154.86,
+      "meal_context": "Post-prandial",
+      "severidad": "Moderada"
+    },
+    {
+      "timestamp": "2026-01-08 18:00:00",
+      "patient_id": "P003",
+      "glucose_level": 173.17,
+      "meal_context": "Before sleep",
+      "severidad": "Moderada"
+    },
+    {
+      "timestamp": "2026-01-08 20:30:00",
+      "patient_id": "P001",
+      "glucose_level": 156.17,
+      "meal_context": "Fasting",
+      "severidad": "Moderada"
+    },
+    {
+      "timestamp": "2026-01-09 01:00:00",
+      "patient_id": "P003",
+      "glucose_level": 144.55,
+      "meal_context": "Post-prandial",
+      "severidad": "Moderada"
+    },
+    {
+      "timestamp": "2026-01-09 03:00:00",
+      "patient_id": "P002",
+      "glucose_level": 140.16,
+      "meal_context": "Before sleep",
+      "severidad": "Moderada"
+    },
+    {
+      "timestamp": "2026-01-09 05:30:00",
+      "patient_id": "P002",
+      "glucose_level": 141.96,
+      "meal_context": "Before sleep",
+      "severidad": "Moderada"
+    },
+    {
+      "timestamp": "2026-01-09 08:30:00",
+      "patient_id": "P002",
+      "glucose_level": 164.08,
+      "meal_context": "Before sleep",
+      "severidad": "Moderada"
+    },
+    {
+      "timestamp": "2026-01-09 10:30:00",
+      "patient_id": "P003",
+      "glucose_level": 149.44,
+      "meal_context": "Fasting",
+      "severidad": "Moderada"
+    },
+    {
+      "timestamp": "2026-01-09 18:00:00",
+      "patient_id": "P003",
+      "glucose_level": 149.14,
+      "meal_context": "Before sleep",
+      "severidad": "Moderada"
+    },
+    {
+      "timestamp": "2026-01-09 19:30:00",
+      "patient_id": "P001",
+      "glucose_level": 157.03,
+      "meal_context": "Fasting",
+      "severidad": "Moderada"
+    },
+    {
+      "timestamp": "2026-01-10 02:00:00",
+      "patient_id": "P003",
+      "glucose_level": 156.17,
+      "meal_context": "Post-prandial",
+      "severidad": "Moderada"
+    },
+    {
+      "timestamp": "2026-01-10 06:30:00",
+      "patient_id": "P001",
+      "glucose_level": 146.09,
+      "meal_context": "Fasting",
+      "severidad": "Moderada"
+    },
+    {
+      "timestamp": "2026-01-10 10:30:00",
+      "patient_id": "P002",
+      "glucose_level": 143.23,
+      "meal_context": "Fasting",
+      "severidad": "Moderada"
+    },
+    {
+      "timestamp": "2026-01-10 12:30:00",
+      "patient_id": "P002",
+      "glucose_level": 146.0,
+      "meal_context": "Post-prandial",
+      "severidad": "Moderada"
+    },
+    {
+      "timestamp": "2026-01-10 13:30:00",
+      "patient_id": "P001",
+      "glucose_level": 155.02,
+      "meal_context": "Before sleep",
+      "severidad": "Moderada"
+    },
+    {
+      "timestamp": "2026-01-10 23:00:00",
+      "patient_id": "P001",
+      "glucose_level": 147.58,
+      "meal_context": "Post-prandial",
+      "severidad": "Moderada"
+    },
+    {
+      "timestamp": "2026-01-11 04:00:00",
+      "patient_id": "P003",
+      "glucose_level": 154.94,
+      "meal_context": "Fasting",
+      "severidad": "Moderada"
+    },
+    {
+      "timestamp": "2026-01-11 06:00:00",
+      "patient_id": "P001",
+      "glucose_level": 144.98,
+      "meal_context": "Post-prandial",
+      "severidad": "Moderada"
+    },
+    {
+      "timestamp": "2026-01-11 11:00:00",
+      "patient_id": "P003",
+      "glucose_level": 142.93,
+      "meal_context": "Before sleep",
+      "severidad": "Moderada"
+    },
+    {
+      "timestamp": "2026-01-11 12:00:00",
+      "patient_id": "P001",
+      "glucose_level": 161.88,
+      "meal_context": "Before sleep",
+      "severidad": "Moderada"
+    },
+    {
+      "timestamp": "2026-01-11 13:00:00",
+      "patient_id": "P001",
+      "glucose_level": 153.4,
+      "meal_context": "Fasting",
+      "severidad": "Moderada"
+    },
+    {
+      "timestamp": "2026-01-11 17:30:00",
+      "patient_id": "P001",
+      "glucose_level": 163.56,
+      "meal_context": "Fasting",
+      "severidad": "Moderada"
+    },
+    {
+      "timestamp": "2026-01-11 18:00:00",
+      "patient_id": "P003",
+      "glucose_level": 153.19,
+      "meal_context": "Post-prandial",
+      "severidad": "Moderada"
+    },
+    {
+      "timestamp": "2026-01-11 23:30:00",
+      "patient_id": "P002",
+      "glucose_level": 149.35,
+      "meal_context": "Fasting",
+      "severidad": "Moderada"
+    },
+    {
+      "timestamp": "2026-01-12 02:00:00",
+      "patient_id": "P003",
+      "glucose_level": 152.1,
+      "meal_context": "Fasting",
+      "severidad": "Moderada"
+    },
+    {
+      "timestamp": "2026-01-12 06:00:00",
+      "patient_id": "P002",
+      "glucose_level": 146.91,
+      "meal_context": "Before sleep",
+      "severidad": "Moderada"
+    },
+    {
+      "timestamp": "2026-01-12 06:30:00",
+      "patient_id": "P002",
+      "glucose_level": 144.5,
+      "meal_context": "Post-prandial",
+      "severidad": "Moderada"
+    },
+    {
+      "timestamp": "2026-01-12 21:00:00",
+      "patient_id": "P003",
+      "glucose_level": 147.52,
+      "meal_context": "Post-prandial",
+      "severidad": "Moderada"
+    },
+    {
+      "timestamp": "2026-01-12 23:30:00",
+      "patient_id": "P001",
+      "glucose_level": 161.92,
+      "meal_context": "Before sleep",
+      "severidad": "Moderada"
+    },
+    {
+      "timestamp": "2026-01-13 09:00:00",
+      "patient_id": "P001",
+      "glucose_level": 162.21,
+      "meal_context": "Before sleep",
+      "severidad": "Moderada"
+    },
+    {
+      "timestamp": "2026-01-13 12:30:00",
+      "patient_id": "P003",
+      "glucose_level": 157.85,
+      "meal_context": "Fasting",
+      "severidad": "Moderada"
+    },
+    {
+      "timestamp": "2026-01-13 16:00:00",
+      "patient_id": "P003",
+      "glucose_level": 170.09,
+      "meal_context": "Post-prandial",
+      "severidad": "Moderada"
+    },
+    {
+      "timestamp": "2026-01-13 20:00:00",
+      "patient_id": "P003",
+      "glucose_level": 150.84,
+      "meal_context": "Post-prandial",
+      "severidad": "Moderada"
+    },
+    {
+      "timestamp": "2026-01-14 00:00:00",
+      "patient_id": "P001",
+      "glucose_level": 150.34,
+      "meal_context": "Fasting",
+      "severidad": "Moderada"
+    },
+    {
+      "timestamp": "2026-01-14 04:30:00",
+      "patient_id": "P002",
+      "glucose_level": 144.39,
+      "meal_context": "Post-prandial",
+      "severidad": "Moderada"
+    },
+    {
+      "timestamp": "2026-01-14 08:00:00",
+      "patient_id": "P001",
+      "glucose_level": 149.86,
+      "meal_context": "Before sleep",
+      "severidad": "Moderada"
+    },
+    {
+      "timestamp": "2026-01-14 11:00:00",
+      "patient_id": "P001",
+      "glucose_level": 151.05,
+      "meal_context": "Post-prandial",
+      "severidad": "Moderada"
+    },
+    {
+      "timestamp": "2026-01-14 12:30:00",
+      "patient_id": "P003",
+      "glucose_level": 166.31,
+      "meal_context": "Before sleep",
+      "severidad": "Moderada"
+    },
+    {
+      "timestamp": "2026-01-14 14:30:00",
+      "patient_id": "P003",
+      "glucose_level": 167.27,
+      "meal_context": "Before sleep",
+      "severidad": "Moderada"
+    },
+    {
+      "timestamp": "2026-01-14 16:30:00",
+      "patient_id": "P003",
+      "glucose_level": 170.99,
+      "meal_context": "Post-prandial",
+      "severidad": "Moderada"
+    },
+    {
+      "timestamp": "2026-01-14 17:00:00",
+      "patient_id": "P003",
+      "glucose_level": 144.61,
+      "meal_context": "Fasting",
+      "severidad": "Moderada"
+    },
+    {
+      "timestamp": "2026-01-15 00:30:00",
+      "patient_id": "P002",
+      "glucose_level": 144.8,
+      "meal_context": "Before sleep",
+      "severidad": "Moderada"
+    },
+    {
+      "timestamp": "2026-01-15 09:30:00",
+      "patient_id": "P001",
+      "glucose_level": 144.1,
+      "meal_context": "Before sleep",
+      "severidad": "Moderada"
+    },
+    {
+      "timestamp": "2026-01-15 14:30:00",
+      "patient_id": "P003",
+      "glucose_level": 153.74,
+      "meal_context": "Post-prandial",
+      "severidad": "Moderada"
+    },
+    {
+      "timestamp": "2026-01-15 17:30:00",
+      "patient_id": "P003",
+      "glucose_level": 141.19,
+      "meal_context": "Before sleep",
+      "severidad": "Moderada"
+    },
+    {
+      "timestamp": "2026-01-15 19:30:00",
+      "patient_id": "P002",
+      "glucose_level": 163.63,
+      "meal_context": "Fasting",
+      "severidad": "Moderada"
+    },
+    {
+      "timestamp": "2026-01-16 00:30:00",
+      "patient_id": "P003",
+      "glucose_level": 165.26,
+      "meal_context": "Fasting",
+      "severidad": "Moderada"
+    },
+    {
+      "timestamp": "2026-01-16 02:30:00",
+      "patient_id": "P001",
+      "glucose_level": 174.49,
+      "meal_context": "Before sleep",
+      "severidad": "Moderada"
+    },
+    {
+      "timestamp": "2026-01-16 03:30:00",
+      "patient_id": "P001",
+      "glucose_level": 150.98,
+      "meal_context": "Post-prandial",
+      "severidad": "Moderada"
+    },
+    {
+      "timestamp": "2026-01-16 04:00:00",
+      "patient_id": "P001",
+      "glucose_level": 151.94,
+      "meal_context": "Fasting",
+      "severidad": "Moderada"
+    },
+    {
+      "timestamp": "2026-01-16 05:30:00",
+      "patient_id": "P001",
+      "glucose_level": 150.71,
+      "meal_context": "Fasting",
+      "severidad": "Moderada"
+    },
+    {
+      "timestamp": "2026-01-16 13:00:00",
+      "patient_id": "P001",
+      "glucose_level": 140.69,
+      "meal_context": "Fasting",
+      "severidad": "Moderada"
+    },
+    {
+      "timestamp": "2026-01-16 14:00:00",
+      "patient_id": "P001",
+      "glucose_level": 151.81,
+      "meal_context": "Post-prandial",
+      "severidad": "Moderada"
+    },
+    {
+      "timestamp": "2026-01-16 20:30:00",
+      "patient_id": "P001",
+      "glucose_level": 140.9,
+      "meal_context": "Fasting",
+      "severidad": "Moderada"
+    },
+    {
+      "timestamp": "2026-01-16 23:00:00",
+      "patient_id": "P003",
+      "glucose_level": 140.33,
+      "meal_context": "Fasting",
+      "severidad": "Moderada"
+    },
+    {
+      "timestamp": "2026-01-17 00:00:00",
+      "patient_id": "P001",
+      "glucose_level": 167.98,
+      "meal_context": "Before sleep",
+      "severidad": "Moderada"
+    },
+    {
+      "timestamp": "2026-01-17 07:30:00",
+      "patient_id": "P002",
+      "glucose_level": 172.32,
+      "meal_context": "Before sleep",
+      "severidad": "Moderada"
+    },
+    {
+      "timestamp": "2026-01-17 18:00:00",
+      "patient_id": "P002",
+      "glucose_level": 144.76,
+      "meal_context": "Post-prandial",
+      "severidad": "Moderada"
+    },
+    {
+      "timestamp": "2026-01-18 03:00:00",
+      "patient_id": "P002",
+      "glucose_level": 148.27,
+      "meal_context": "Fasting",
+      "severidad": "Moderada"
+    },
+    {
+      "timestamp": "2026-01-18 03:30:00",
+      "patient_id": "P002",
+      "glucose_level": 140.47,
+      "meal_context": "Post-prandial",
+      "severidad": "Moderada"
+    },
+    {
+      "timestamp": "2026-01-18 04:30:00",
+      "patient_id": "P003",
+      "glucose_level": 147.27,
+      "meal_context": "Post-prandial",
+      "severidad": "Moderada"
+    },
+    {
+      "timestamp": "2026-01-18 23:30:00",
+      "patient_id": "P003",
+      "glucose_level": 152.79,
+      "meal_context": "Post-prandial",
+      "severidad": "Moderada"
+    },
+    {
+      "timestamp": "2026-01-19 01:00:00",
+      "patient_id": "P001",
+      "glucose_level": 146.78,
+      "meal_context": "Post-prandial",
+      "severidad": "Moderada"
+    },
+    {
+      "timestamp": "2026-01-19 03:30:00",
+      "patient_id": "P002",
+      "glucose_level": 155.65,
+      "meal_context": "Before sleep",
+      "severidad": "Moderada"
+    },
+    {
+      "timestamp": "2026-01-19 05:00:00",
+      "patient_id": "P003",
+      "glucose_level": 163.93,
+      "meal_context": "Fasting",
+      "severidad": "Moderada"
+    },
+    {
+      "timestamp": "2026-01-19 07:00:00",
+      "patient_id": "P001",
+      "glucose_level": 142.54,
+      "meal_context": "Before sleep",
+      "severidad": "Moderada"
+    },
+    {
+      "timestamp": "2026-01-19 07:30:00",
+      "patient_id": "P002",
+      "glucose_level": 149.04,
+      "meal_context": "Fasting",
+      "severidad": "Moderada"
+    },
+    {
+      "timestamp": "2026-01-19 10:00:00",
+      "patient_id": "P002",
+      "glucose_level": 160.33,
+      "meal_context": "Fasting",
+      "severidad": "Moderada"
+    },
+    {
+      "timestamp": "2026-01-19 13:00:00",
+      "patient_id": "P001",
+      "glucose_level": 140.01,
+      "meal_context": "Before sleep",
+      "severidad": "Moderada"
+    },
+    {
+      "timestamp": "2026-01-19 17:30:00",
+      "patient_id": "P001",
+      "glucose_level": 147.53,
+      "meal_context": "Before sleep",
+      "severidad": "Moderada"
+    },
+    {
+      "timestamp": "2026-01-19 19:00:00",
+      "patient_id": "P002",
+      "glucose_level": 143.2,
+      "meal_context": "Before sleep",
+      "severidad": "Moderada"
+    },
+    {
+      "timestamp": "2026-01-19 20:30:00",
+      "patient_id": "P001",
+      "glucose_level": 164.13,
+      "meal_context": "Fasting",
+      "severidad": "Moderada"
+    },
+    {
+      "timestamp": "2026-01-19 23:00:00",
+      "patient_id": "P003",
+      "glucose_level": 148.21,
+      "meal_context": "Before sleep",
+      "severidad": "Moderada"
+    },
+    {
+      "timestamp": "2026-01-20 03:00:00",
+      "patient_id": "P003",
+      "glucose_level": 161.41,
+      "meal_context": "Post-prandial",
+      "severidad": "Moderada"
+    },
+    {
+      "timestamp": "2026-01-20 08:30:00",
+      "patient_id": "P002",
+      "glucose_level": 150.18,
+      "meal_context": "Post-prandial",
+      "severidad": "Moderada"
+    },
+    {
+      "timestamp": "2026-01-20 14:00:00",
+      "patient_id": "P002",
+      "glucose_level": 140.96,
+      "meal_context": "Fasting",
+      "severidad": "Moderada"
+    },
+    {
+      "timestamp": "2026-01-20 15:30:00",
+      "patient_id": "P003",
+      "glucose_level": 152.56,
+      "meal_context": "Fasting",
+      "severidad": "Moderada"
+    },
+    {
+      "timestamp": "2026-01-20 16:30:00",
+      "patient_id": "P003",
+      "glucose_level": 175.04,
+      "meal_context": "Before sleep",
+      "severidad": "Moderada"
+    },
+    {
+      "timestamp": "2026-01-20 19:00:00",
+      "patient_id": "P003",
+      "glucose_level": 142.24,
+      "meal_context": "Post-prandial",
+      "severidad": "Moderada"
+    },
+    {
+      "timestamp": "2026-01-20 23:00:00",
+      "patient_id": "P001",
+      "glucose_level": 151.75,
+      "meal_context": "Post-prandial",
+      "severidad": "Moderada"
+    },
+    {
+      "timestamp": "2026-01-21 07:00:00",
+      "patient_id": "P001",
+      "glucose_level": 153.17,
+      "meal_context": "Post-prandial",
+      "severidad": "Moderada"
+    },
+    {
+      "timestamp": "2026-01-21 10:30:00",
+      "patient_id": "P001",
+      "glucose_level": 141.56,
+      "meal_context": "Fasting",
+      "severidad": "Moderada"
+    },
+    {
+      "timestamp": "2026-01-21 11:30:00",
+      "patient_id": "P001",
+      "glucose_level": 173.95,
+      "meal_context": "Fasting",
+      "severidad": "Moderada"
+    },
+    {
+      "timestamp": "2026-01-21 13:00:00",
+      "patient_id": "P001",
+      "glucose_level": 148.55,
+      "meal_context": "Post-prandial",
+      "severidad": "Moderada"
+    },
+    {
+      "timestamp": "2026-01-21 13:30:00",
+      "patient_id": "P002",
+      "glucose_level": 160.15,
+      "meal_context": "Fasting",
+      "severidad": "Moderada"
+    },
+    {
+      "timestamp": "2026-01-21 14:00:00",
+      "patient_id": "P001",
+      "glucose_level": 161.54,
+      "meal_context": "Post-prandial",
+      "severidad": "Moderada"
+    },
+    {
+      "timestamp": "2026-01-21 14:30:00",
+      "patient_id": "P002",
+      "glucose_level": 140.21,
+      "meal_context": "Post-prandial",
+      "severidad": "Moderada"
+    }
+  ],
+  "estadisticas": {
+    "glucosa_maxima": 175.81,
+    "pacientes_afectados": 3
+  }
+}
